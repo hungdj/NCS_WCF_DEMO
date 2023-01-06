@@ -1,1 +1,0 @@
-# NCS_WCF_DEMO
